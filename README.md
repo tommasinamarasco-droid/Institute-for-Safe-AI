@@ -1,2 +1,1 @@
-# Institute-for-Safe-AI
-Ensuring the safety as we look to the present and future
+Advancing safe, ethical, and human-centered AI. Researching AI alignment, risk mitigation, and responsible deployment to ensure AI benefits society.
